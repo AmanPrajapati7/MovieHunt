@@ -39,7 +39,7 @@ We follow Google recommended [Guide to app architecture](https://developer.andro
 * **ViewModel**: It keeps the logic away from View layer, provides data streams for UI and handle user interactions.
 * **Model**: Repository pattern, data layers that provide interface to manipulate data from both the local and remote data sources. The local data sources will serve as [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth).
 
-* # Razorpay-payment-gateway-in-Kotlin-
+# Razorpay-payment-gateway-in-Kotlin-
 How to integrate razorpay payment gateway in Kotlin android App? Many apps use the payment gateway features but the integration of this payment gateway is a difficult task in Android applications. 
 
 https://www.boltuix.com/2022/12/how-to-integrate-razorpay-payment.html
