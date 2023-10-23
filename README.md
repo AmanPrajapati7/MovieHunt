@@ -27,7 +27,7 @@ MovieHunt is a sample Android project using <a href="https://www.themoviedb.org/
 * [Jetpack Compose](https://developer.android.com/jetpack/compose) - Declarative and simplified way for UI development.
 * [Coroutine](https://developer.android.com/kotlin/coroutines) Concurrency design pattern for asynchronous programming.
 * [Glide](https://github.com/coil-kt/coil) - Image loading.
-* [GSON]([https://github.com/JakeWharton/timber](https://github.com/google/gson/blob/main/UserGuide.md)) - JSON Parsing
+* [GSON](https://github.com/bumptech/glide.git) - JSON Parsing
 
 ## Architectures
 
